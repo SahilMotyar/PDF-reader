@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 PyPDF2
+=======
+streamlit
+PyPDF2
+transformers
+nltk
+>>>>>>> fde2dc2 (requirements)
